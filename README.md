@@ -46,4 +46,5 @@ Name: Dominik Adamczak
 Email: dominik.adamc@gmail.com  
 LinkedIn: linkedin.com/in/dominik-adamczak-74154832a
 
+Mockup Link: [https://www.figma.com/design/znDd8LhbWLyse8Pkwg9ql3/Take-Home-Task---Time-Series?m=auto&t=1cwChEuvsObLdVRm-6](https://www.figma.com/design/znDd8LhbWLyse8Pkwg9ql3/Take-Home-Task---Time-Series?m=auto&t=1cwChEuvsObLdVRm-6)  
 Project Link: [https://github.com/DominikAdamczak/home-time-series-react.git](https://github.com/DominikAdamczak/home-time-series-react.git)
